@@ -69,3 +69,20 @@ Dataset is available in the `data/` folder.
 
 ## 📬 Contact
 If you have feedback or suggestions, feel free to connect on LinkedIn.
+
+
+
+## Key Business Insights
+
+- Churn rate is approximately 20%, indicating a significant retention challenge.
+- Inactive customers are nearly twice as likely to churn.
+- Customers holding only one product show higher churn probability.
+- Germany has the highest churn concentration among all regions.
+- High-value customers represent major revenue risk if churned.
+
+## Recommendations
+- Improve engagement programs for inactive customers.
+- Target retention campaigns for customers aged 46–60.
+- Offer product bundling to single-product customers.
+- Proactively monitor high-balance customers.
+
